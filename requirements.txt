@@ -1,0 +1,3 @@
+flask
+scikit-learn   # agar aap scikit-learn model use kar rahe hain
+pandas
